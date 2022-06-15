@@ -1,0 +1,15 @@
+{
+    getMetric(metric: "dev_activity") {
+      timeseriesData(
+        slug: "bitcoin"
+        from: "2021-01-01T00:00:00Z"
+        to: "2022-06-01T00:00:00Z"
+        includeIncompleteData: true
+        interval: "7d"
+        aggregation: SUM
+        transform: {type: "moving_average", moving_average_base: 3}) {
+        value
+        datetime
+      }
+    }
+  }
