@@ -4,299 +4,299 @@
       "timeseriesData": [
         {
           "datetime": "2020-12-31T00:00:00Z",
-          "value": 1592.33
+          "value": 3.33
         },
         {
           "datetime": "2021-01-07T00:00:00Z",
-          "value": 1689
+          "value": 8.33
         },
         {
           "datetime": "2021-01-14T00:00:00Z",
-          "value": 2516.33
+          "value": 14.67
         },
         {
           "datetime": "2021-01-21T00:00:00Z",
-          "value": 2961
+          "value": 14
         },
         {
           "datetime": "2021-01-28T00:00:00Z",
-          "value": 3076.33
+          "value": 8.67
         },
         {
           "datetime": "2021-02-04T00:00:00Z",
-          "value": 2925.67
+          "value": 7.33
         },
         {
           "datetime": "2021-02-11T00:00:00Z",
-          "value": 3010.67
+          "value": 10
         },
         {
           "datetime": "2021-02-18T00:00:00Z",
-          "value": 2881
+          "value": 11
         },
         {
           "datetime": "2021-02-25T00:00:00Z",
-          "value": 3080.67
+          "value": 10
         },
         {
           "datetime": "2021-03-04T00:00:00Z",
-          "value": 3878
+          "value": 8.33
         },
         {
           "datetime": "2021-03-11T00:00:00Z",
-          "value": 3983.33
+          "value": 7
         },
         {
           "datetime": "2021-03-18T00:00:00Z",
-          "value": 3904.33
+          "value": 4
         },
         {
           "datetime": "2021-03-25T00:00:00Z",
-          "value": 3860.67
+          "value": 5
         },
         {
           "datetime": "2021-04-01T00:00:00Z",
-          "value": 3533.67
+          "value": 7.33
         },
         {
           "datetime": "2021-04-08T00:00:00Z",
-          "value": 3488.67
+          "value": 7.67
         },
         {
           "datetime": "2021-04-15T00:00:00Z",
-          "value": 2830
+          "value": 7.33
         },
         {
           "datetime": "2021-04-22T00:00:00Z",
-          "value": 3088.33
+          "value": 7.33
         },
         {
           "datetime": "2021-04-29T00:00:00Z",
-          "value": 2988.67
+          "value": 9.33
         },
         {
           "datetime": "2021-05-06T00:00:00Z",
-          "value": 2888.33
+          "value": 12.67
         },
         {
           "datetime": "2021-05-13T00:00:00Z",
-          "value": 2995.33
+          "value": 13
         },
         {
           "datetime": "2021-05-20T00:00:00Z",
-          "value": 3230.67
+          "value": 15.33
         },
         {
           "datetime": "2021-05-27T00:00:00Z",
-          "value": 3105.67
+          "value": 13
         },
         {
           "datetime": "2021-06-03T00:00:00Z",
-          "value": 2939.67
+          "value": 12
         },
         {
           "datetime": "2021-06-10T00:00:00Z",
-          "value": 3374.67
+          "value": 12.33
         },
         {
           "datetime": "2021-06-17T00:00:00Z",
-          "value": 3496
+          "value": 11.33
         },
         {
           "datetime": "2021-06-24T00:00:00Z",
-          "value": 3730.67
+          "value": 13.33
         },
         {
           "datetime": "2021-07-01T00:00:00Z",
-          "value": 3065.67
+          "value": 9.33
         },
         {
           "datetime": "2021-07-08T00:00:00Z",
-          "value": 2970
+          "value": 7.67
         },
         {
           "datetime": "2021-07-15T00:00:00Z",
-          "value": 2726.33
+          "value": 4
         },
         {
           "datetime": "2021-07-22T00:00:00Z",
-          "value": 2765.67
+          "value": 3.33
         },
         {
           "datetime": "2021-07-29T00:00:00Z",
-          "value": 2934.67
+          "value": 41.33
         },
         {
           "datetime": "2021-08-05T00:00:00Z",
-          "value": 3103.33
+          "value": 43.33
         },
         {
           "datetime": "2021-08-12T00:00:00Z",
-          "value": 3172.33
+          "value": 49.33
         },
         {
           "datetime": "2021-08-19T00:00:00Z",
-          "value": 2932.33
+          "value": 14.67
         },
         {
           "datetime": "2021-08-26T00:00:00Z",
-          "value": 2449.67
+          "value": 15.33
         },
         {
           "datetime": "2021-09-02T00:00:00Z",
-          "value": 2439
+          "value": 11.67
         },
         {
           "datetime": "2021-09-09T00:00:00Z",
-          "value": 2614.33
+          "value": 9
         },
         {
           "datetime": "2021-09-16T00:00:00Z",
-          "value": 3089.67
+          "value": 6.67
         },
         {
           "datetime": "2021-09-23T00:00:00Z",
-          "value": 3036
+          "value": 3.33
         },
         {
           "datetime": "2021-09-30T00:00:00Z",
-          "value": 2711.67
+          "value": 2.67
         },
         {
           "datetime": "2021-10-07T00:00:00Z",
-          "value": 1950.33
+          "value": 0.67
         },
         {
           "datetime": "2021-10-14T00:00:00Z",
-          "value": 1221
+          "value": 0
         },
         {
           "datetime": "2021-10-21T00:00:00Z",
-          "value": 527.67
+          "value": 0
         },
         {
           "datetime": "2021-10-28T00:00:00Z",
-          "value": 763.33
+          "value": 0
         },
         {
           "datetime": "2021-11-04T00:00:00Z",
-          "value": 1446.67
+          "value": 0.67
         },
         {
           "datetime": "2021-11-11T00:00:00Z",
-          "value": 2170.33
+          "value": 1
         },
         {
           "datetime": "2021-11-18T00:00:00Z",
-          "value": 2428.67
+          "value": 1
         },
         {
           "datetime": "2021-11-25T00:00:00Z",
-          "value": 2297
+          "value": 0.33
         },
         {
           "datetime": "2021-12-02T00:00:00Z",
-          "value": 2380.67
+          "value": 0.67
         },
         {
           "datetime": "2021-12-09T00:00:00Z",
-          "value": 2556.33
+          "value": 1
         },
         {
           "datetime": "2021-12-16T00:00:00Z",
-          "value": 2512.67
+          "value": 1
         },
         {
           "datetime": "2021-12-23T00:00:00Z",
-          "value": 1889.67
+          "value": 0.33
         },
         {
           "datetime": "2021-12-30T00:00:00Z",
-          "value": 1412.67
+          "value": 1.67
         },
         {
           "datetime": "2022-01-06T00:00:00Z",
-          "value": 1543.33
+          "value": 3.33
         },
         {
           "datetime": "2022-01-13T00:00:00Z",
-          "value": 2648
+          "value": 4
         },
         {
           "datetime": "2022-01-20T00:00:00Z",
-          "value": 3624.33
+          "value": 2.33
         },
         {
           "datetime": "2022-01-27T00:00:00Z",
-          "value": 3613.33
+          "value": 0.67
         },
         {
           "datetime": "2022-02-03T00:00:00Z",
-          "value": 3153
+          "value": 0
         },
         {
           "datetime": "2022-02-10T00:00:00Z",
-          "value": 2908.33
+          "value": 0
         },
         {
           "datetime": "2022-02-17T00:00:00Z",
-          "value": 3258
+          "value": 0
         },
         {
           "datetime": "2022-02-24T00:00:00Z",
-          "value": 3105.67
+          "value": 0
         },
         {
           "datetime": "2022-03-03T00:00:00Z",
-          "value": 2584
+          "value": 0
         },
         {
           "datetime": "2022-03-10T00:00:00Z",
-          "value": 2190.33
+          "value": 0
         },
         {
           "datetime": "2022-03-17T00:00:00Z",
-          "value": 2275
+          "value": 0.33
         },
         {
           "datetime": "2022-03-24T00:00:00Z",
-          "value": 2316
+          "value": 1.33
         },
         {
           "datetime": "2022-03-31T00:00:00Z",
-          "value": 2404.67
+          "value": 2.33
         },
         {
           "datetime": "2022-04-07T00:00:00Z",
-          "value": 2246.33
+          "value": 3
         },
         {
           "datetime": "2022-04-14T00:00:00Z",
-          "value": 2178.33
+          "value": 2.33
         },
         {
           "datetime": "2022-04-21T00:00:00Z",
-          "value": 2073.67
+          "value": 1.33
         },
         {
           "datetime": "2022-04-28T00:00:00Z",
-          "value": 2932
+          "value": 0.33
         },
         {
           "datetime": "2022-05-05T00:00:00Z",
-          "value": 3044.33
+          "value": 0
         },
         {
           "datetime": "2022-05-12T00:00:00Z",
-          "value": 3205
+          "value": 0.33
         },
         {
           "datetime": "2022-05-19T00:00:00Z",
-          "value": 3251.67
+          "value": 1
         },
         {
           "datetime": "2022-05-26T00:00:00Z",
-          "value": 3877
+          "value": 1.33
         }
       ]
     }
