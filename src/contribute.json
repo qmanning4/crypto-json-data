@@ -1,0 +1,14 @@
+{
+    getMetric(metric: "dev_activity_contributors_count") {
+      timeseriesData(
+        slug: "ethereum"
+        from: "2021-01-01T00:00:00Z"
+        to: "2022-06-01T00:00:00Z"
+        includeIncompleteData: true
+        interval: "7d"
+        aggregation: SUM) {
+        value
+        datetime
+      }
+    }
+  }
